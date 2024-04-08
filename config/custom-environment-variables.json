@@ -1,0 +1,14 @@
+{
+  "loggly": {
+    "token": "loggly_token"
+  },
+  "jwt": {
+    "privateKey": "jwt_private_key"
+  },
+  "rabbitMq": {
+    "password": "amqp_password"
+  },
+  "db": {
+    "url": "db_connection_url"
+  }
+}

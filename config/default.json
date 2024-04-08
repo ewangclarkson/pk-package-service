@@ -1,0 +1,16 @@
+{
+  "name": "SuperApp - Package Service",
+  "db": {
+  },
+  "app": {
+    "host": "http://localhost",
+    "port": 8001
+  },
+  "jwt": {
+    "expiresIn": "1h"
+  },
+  "rabbitMq": {
+    "prefix": "http://",
+    "host": "localhost:5672"
+  }
+}
